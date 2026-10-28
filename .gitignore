@@ -1,0 +1,3 @@
+target/
+.env
+nginx/certs/*.pem
